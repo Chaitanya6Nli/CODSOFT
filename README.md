@@ -1,4 +1,4 @@
-# CODSOFT-
+# WEB DEVELOPMENT SERIES-
 
 This repository contains all the tasks of CODSOFT's Web development internship.
 
